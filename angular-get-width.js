@@ -44,6 +44,8 @@
         scope.$on('$destroy', function () {
           angular.element($window).off('resize', debounceSetElementWidth);
         });
+
+        scope.$on('getWidth:reset', debounceSetElementWidth);
       }
 
       /**
