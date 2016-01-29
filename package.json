@@ -1,0 +1,21 @@
+{
+  "name": "angular-get-width",
+  "version": "0.1.2",
+  "description": "Set an element's width to a scope variable",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikemclin/angular-get-width.git"
+  },
+  "keywords": [
+    "angular"
+  ],
+  "author": "Mike McLin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mikemclin/angular-get-width/issues"
+  },
+  "homepage": "https://github.com/mikemclin/angular-get-width#readme"
+}
